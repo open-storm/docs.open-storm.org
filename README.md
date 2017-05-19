@@ -1,2 +1,3 @@
-# docs.open-storm.org
-Documentation for open storm projects
+## Documentation for open storm architecture
+
+See the full documentation on the wiki: https://github.com/kLabUM/documentation/wiki
