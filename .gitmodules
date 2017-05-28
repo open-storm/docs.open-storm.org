@@ -1,0 +1,3 @@
+[submodule "docs.open-storm.org.wiki"]
+	path = docs.open-storm.org.wiki
+	url = git://github.com/open-storm/docs.open-storm.org.wiki
